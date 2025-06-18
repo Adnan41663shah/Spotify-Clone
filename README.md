@@ -3,9 +3,9 @@
 Welcome to **Adnan Music**, a beautifully crafted **Spotify-inspired frontend UI clone** made with just **HTML and CSS**. This project is a part of my learning journey in **web development**, focused on creating elegant user interfaces without using JavaScript or any libraries/frameworks.
 
 
-## 📸 Screenshots
+## 📸 Sample video
 
-![Home Page Screenshot](./screenshots/home.png)  
+![Home Page Sample video](./images/SampleVideo.mp4)  
 *(Add your actual screenshot images in a `/screenshots` folder)*
 
 
