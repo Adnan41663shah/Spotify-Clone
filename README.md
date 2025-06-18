@@ -1,6 +1,6 @@
-# 🎵 Adnan Music - Spotify Inspired Web UI
+# 🎵 Spotify Clone - Spotify Inspired Web UI
 
-Welcome to **Adnan Music**, a beautifully crafted **Spotify-inspired frontend UI clone** made with just **HTML and CSS**. This project is a part of my learning journey in **web development**, focused on creating elegant user interfaces without using JavaScript or any libraries/frameworks.
+Welcome to **Spotify Clone**, a beautifully crafted **Spotify-inspired frontend UI clone** made with just **HTML and CSS**. This project is a part of my learning journey in **web development**, focused on creating elegant user interfaces without using JavaScript or any libraries/frameworks.
 
 
 ## 📸 Sample video
