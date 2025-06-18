@@ -6,7 +6,6 @@ Welcome to **Adnan Music**, a beautifully crafted **Spotify-inspired frontend UI
 ## 📸 Sample video
 
 ![Home Page Sample video](./images/SampleVideo.mp4)  
-*(Add your actual screenshot images in a `/screenshots` folder)*
 
 
 ## 🧰 Features
